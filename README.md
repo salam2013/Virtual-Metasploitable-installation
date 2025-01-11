@@ -48,7 +48,7 @@ Version: Select "Other (64-bit)."
 
 
 
-<img src="
+<img src="met4.jpg">
 
 
 
@@ -60,6 +60,10 @@ Fill in these details to proceed with setting up your virtual machine.
 <h4>Step 4</h4>. 
 
 Choose the amount of RAM to allocate to the virtual machine. It’s recommended to assign 512MB for optimal performance. 
+
+
+
+<img src="">
 
  
 
