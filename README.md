@@ -12,16 +12,16 @@ Download Metasploitable from trusted sources like Rapid7's website. Choose the a
 
 
 
-
+<img src="met1.jpg">
 
 
  
 
-Step 2. 
+<h4>Step 2</h4>. 
 
 After downloading Metasploitable, extract the compressed file using tools like WinRAR or 7-Zip. Save the extracted folder to a preferred location. This folder contains the virtual machine files needed for setup. Ensure the extraction completes successfully, as these files will be imported into a virtualization platform like VMware or VirtualBox. 
 
-Step 3. 
+<h4>Step 3</h4>. 
 
 Click on the "New" option in VirtualBox to create a new virtual machine and begin the setup process. 
 
@@ -37,17 +37,17 @@ Fill in these details to proceed with setting up your virtual machine.
 
  
 
-Step 4. 
+<h4>Step 4</h4>. 
 
 Choose the amount of RAM to allocate to the virtual machine. It’s recommended to assign 512MB for optimal performance. 
 
  
 
-Step 5. 
+<h4>Step 5</h4>. 
 
 Select the option to use an existing virtual hard disk file. This allows you to connect a pre-configured virtual drive. 
 
- Step 6. 
+ <h4>Step 6</h4>. 
 
 Set up the network settings for your virtual machine carefully to ensure security. It is highly recommended to use either NAT or Host-only network configurations. These options help keep the virtual machine isolated from public networks, preventing exposure to potential external threats. This is especially important for Metasploitable, as it is intentionally vulnerable and should never be connected to untrusted networks. Proper network configuration ensures a safe environment for testing and learning without risking unintended network access or compromising your system's security. Always double-check your settings to maintain isolation and secure your virtual lab. 
 
@@ -65,7 +65,7 @@ You’re all set! Simply click the "Start" button at the top to initiate the mac
 
  
 
-Step 7. 
+<h4>Step 7</h4>. 
 
 After the instance has finished loading, you’ll be prompted to enter a login name and password. The default credentials are as follows: 
 
