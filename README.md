@@ -132,7 +132,7 @@ You’re all set! Simply click the "Start" button at the top to initiate the mac
 
 
 
-<img src="">
+<img src="met10.png">
 
 
 
@@ -144,7 +144,14 @@ After the instance has finished loading, you’ll be prompted to enter a login n
 
 Login Name: msfadmin 
 
- Password: msfadmin 
+Password: msfadmin
+
+
+
+<img src="">
+
+
+
 
 After logging in with the provided credentials, you’ll gain access to the machine, completing the installation process successfully. 
 
